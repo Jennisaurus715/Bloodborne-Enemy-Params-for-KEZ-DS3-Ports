@@ -1,0 +1,105 @@
+ID,Name,ChrBndType,AniBndType,TexBndType,BehBndType,SndChrType
+7000,Scourge Beast,0,0,0,0,0
+7001,Blood Moon Scourge Beast,0,0,0,0,0
+7010,Loran Cleric,0,0,0,0,0
+7050,Chime Maiden,0,0,0,0,0
+7060,Brainsucker,0,0,0,0,0
+7090,Beast Patient (Male),0,0,0,0,0
+7110,Nightmare Apostle,0,0,0,0,0
+7111,Patches the Spider,0,0,0,0,0
+7120,Rotted Corpse,0,0,0,0,0
+7140,Hunting Dog,0,0,0,0,0
+7150,Gel,0,0,0,0,0
+7160,Keeper's Hunting Dog,0,0,0,0,0
+7170,Carrion Crow,0,0,0,0,0
+7171,Nightmare Carrion Crow,0,0,0,0,0
+7180,Wandering Madness,0,0,0,0,0
+7190,Large Wandering Madness,0,0,0,0,0
+7200,Gravekeeper Scorpion,0,0,0,0,0
+7210,Cainhurst Gargoyle,0,0,0,0,0
+7220,Labyrinth Mole,0,0,0,0,0
+7230,Rabid Dog,0,0,0,0,0
+7240,Greater Viper Pit,0,0,0,0,0
+7250,Viper Pit,0,0,0,0,0
+7260,Maneater Boar,0,0,0,0,0
+7261,Beast Patient (Female),0,0,0,0,0
+7270,Nightmare Apostle (Large),0,0,0,0,0
+7290,Rom Spider,0,0,0,0,0
+7300,Executioner,0,0,0,0,0
+7320,Bagboi,0,0,0,0,0
+7350,Mad One,0,0,0,0,0
+7380,Pilgrim,0,0,0,0,0
+7390,Blood-Starved Beast,0,0,0,0,0
+7400,Eye Collector / Witch of Hemwick,0,0,0,0,0
+7410,Cthulu Spider,0,0,0,0,0
+7420,Shadow of Yharnam,0,0,0,0,0
+7430,Bloodlicker / Bloodsucking Beast,0,0,0,0,0
+7440,Cainhurst Ghost,0,0,0,0,0
+7450,Keeper of the Old Lords,0,0,0,0,0
+7460,Messenger From The Snake Swamp,0,0,0,0,0
+7470,Loran Silver Beast,0,0,0,0,0
+7480,Parasite,0,0,0,0,0
+7490,Mergo's Attendant,0,0,0,0,0
+7500,Mergo's Chief Attendant,0,0,0,0,0
+7530,Martyr Logarius,0,0,0,0,0
+7540,Cainhurst Knight,0,0,0,0,0
+7550,Giant Orphan,0,0,0,0,0
+7560,Small Emissary,0,0,0,0,0
+7570,Ebrietas Daughter of the Cosmos,0,0,0,0,0
+7580,Celestial Larva,0,0,0,0,0
+7590,Fluorescent Flower,0,0,0,0,0
+7600,Crawler,0,0,0,0,0
+7610,Crawler (Large),0,0,0,0,0
+7620,Winter Lantern,0,0,0,0,0
+7640,Dreadful Mob,0,0,0,0,0
+7650,Hemwick Graveyard Hags,0,0,0,0,0
+7660,Wheelchair Huntsman,0,0,0,0,0
+7670,Forest Huntsman,0,0,0,0,0
+7680,Brick Troll,0,0,0,0,0
+7690,Messenger of the Church,0,0,0,0,0
+7700,Father Gascoigne,0,0,0,0,0
+7710,Beast Gascoigne,0,0,0,0,0
+7720,Cathedral Giant,0,0,0,0,0
+7730,Byrgenwerth Scholar,0,0,0,0,0
+7770,Labrynth Ritekeeper,0,0,0,0,0
+7780,Pthumerian Undead,0,0,0,0,0
+7790,Tomb Guardian,0,0,0,0,0
+7800,Labrynth Sage,0,0,0,0,0
+7810,Merciless Watcher,0,0,0,0,0
+7820,Pthumerian Descendant,0,0,0,0,0
+7830,Queen Yharnam,0,0,0,0,0
+7840,Cramped Casket,0,0,0,0,0
+7850,Evil Spirit,0,0,0,0,0
+7870,Undead Giant,0,0,0,0,0
+7880,Old Hunter,0,0,0,0,0
+7890,Old Executioner,0,0,0,0,0
+7900,Clock Tower Patient,0,0,0,0,0
+7920,Fishman,0,0,0,0,0
+7930,Old Cloaked Fishman,0,0,0,0,0
+7931,Old Cloaked Fishman (Duplicate?),0,0,0,0,0
+7935,Old Cloaked Fishman (No Cane),0,0,0,0,0
+7940,Big Fishman,0,0,0,0,0
+7950,Hermit Crab,0,0,0,0,0
+7960,Fisherman Dog,0,0,0,0,0
+7980,Old Hellhound,0,0,0,0,0
+8060,Ludwig,0,0,0,0,0
+8070,Maria,0,0,0,0,0
+8090,Orphan of Kos,0,0,0,0,0
+8091,Orphan of Kos (Phase 2),0,0,0,0,0
+8120,Cleric Beast,0,0,0,0,0
+8130,Watchdog of the Old Lords,0,0,0,0,0
+8140,Vicar Amelia,0,0,0,0,0
+8050,Abhorrent Beast,0,0,0,0,0
+8190,The One Reborn Body,0,0,0,0,0
+8191,The One Reborn Head,0,0,0,0,0
+8200,Darkbeast Paarl,0,0,0,0,0
+8160,Bloodletting Beast,0,0,0,0,0
+8165,Bloodletting Beast (Duplicate?),0,0,0,0,0
+8220,Rom,0,0,0,0,0
+8230,Great One Beast,0,0,0,0,0
+8240,Amygdala,0,0,0,0,0
+8290,Moon Presence,0,0,0,0,0
+8330,Mergo's Wet Nurse,0,0,0,0,0
+8390,Beast-Possessed Soul,0,0,0,0,0
+8450,Gherman The First Hunter,0,0,0,0,0
+7851,Messenger,0,0,0,0,0
